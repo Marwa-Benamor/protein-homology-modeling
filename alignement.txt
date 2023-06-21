@@ -1,0 +1,81 @@
+########################################
+# Program: needle
+# Rundate: Thu 30 Mar 2023 01:18:45
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230330-011837-0090-33156489-p1m.asequence
+#    -bsequence emboss_needle-I20230330-011837-0090-33156489-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: template
+# 2: target
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 453
+# Identity:     447/453 (98.7%)
+# Similarity:   448/453 (98.9%)
+# Gaps:           5/453 ( 1.1%)
+# Score: 2424.0
+# 
+#
+#=======================================
+
+template           1 TPTTFVHLFEWNWQDVAQECEQYLGPKGYAAVQVSPPNEHITGSQWWTRY     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+target             1 TPTTFVHLFEWNWQDVAQECEQYLGPKGYAAVQVSPPNEHITGSQWWTRY     50
+
+template          51 QPVSYELQSRGGNRAQFIDMVNRCSAAGVDIYVDTLINHMAAGSGTGTAG    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+target            51 QPVSYELQSRGGNRAQFIDMVNRCSAAGVDIYVDTLINHMAAGSGTGTAG    100
+
+template         101 NSFGNKSFPIYSPQDFHESCTINNSDYGNDRYRVQNCELVGLADLDTASN    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+target           101 NSFGNKSFPIYSPQDFHESCTINNSDYGNDRYRVQNCELVGLADLDTASN    150
+
+template         151 YVQNTIAAYINDLQAIGVKGFRFDASKHVAASDIQSLMAKVNGSPVVFQE    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+target           151 YVQNTIAAYINDLQAIGVKGFRFDASKHVAASDIQSLMAKVNGSPVVFQE    200
+
+template         201 VIDQGGEAVGASEYLSTGLVTEFKYSTELGNTFRNGSLAWLSNFGEGWGF    250
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+target           201 VIDQGGEAVGASEYLSTGLVTEFKYSTELGNTFRNGSLAWLSNFGEGWGF    250
+
+template         251 MPSSSAVVFVDNHDNQRGHGGAGNVITFEDGRLYDLANVFMLAYPYGYPR    300
+                     |||||||||||||||||||||||||||||||||||||||||||||||||:
+target           251 MPSSSAVVFVDNHDNQRGHGGAGNVITFEDGRLYDLANVFMLAYPYGYPK    300
+
+template         301 VMSSYDFHGDTDAGGPNVPVHNNGNLECFASNWKCEHRWSYIAGGVDFRN    350
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+target           301 VMSSYDFHGDTDAGGPNVPVHNNGNLECFASNWKCEHRWSYIAGGVDFRN    350
+
+template         351 NTADNWAVTNWWDNTNNQISFGRGSSGHMAINKEDSTLTATVQTDMASGQ    400
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+target           351 NTADNWAVTNWWDNTNNQISFGRGSSGHMAINKEDSTLTATVQTDMASGQ    400
+
+template         401 YCNVLKGELSADAKSCSGEVITVNSDGTINLNIGAWDAMAIHKNAKLN--    448
+                     ||||||||||||||||||||||||||||||||||||||||||||||||  
+target           401 YCNVLKGELSADAKSCSGEVITVNSDGTINLNIGAWDAMAIHKNAKLNTS    450
+
+template         449 ---    448
+                        
+target           451 SAS    453
+
+
+#---------------------------------------
+#---------------------------------------
