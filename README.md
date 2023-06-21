@@ -25,7 +25,8 @@ Dans ce rapport, nous appliquerons une modélisation comparative sur l'exemple d
 
 Pour obtenir la séquence de la protéine mature, on élimine la séquence signal ainsi que les éventuelles séquences propeptides.
 
-Copier au format FASTA la séquence de la protéine mature dans un nouveau fichier appelé «alpha\_amy.txt».
+Copier au format FASTA la séquence de la protéine mature dans un nouveau fichier appelé «alpha\_amy.txt».
+
 
 ![](Aspose.Words.f7fc63ad-96a3-474b-ba4a-1ff6b42ed1cd.001.png)
 
